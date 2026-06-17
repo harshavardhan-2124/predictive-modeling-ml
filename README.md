@@ -109,5 +109,4 @@ Gain hands-on experience in supervised learning, model comparison, and performan
 
 ## 👤 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+Gonuguntla Harsha Vardhan
